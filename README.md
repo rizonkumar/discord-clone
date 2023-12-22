@@ -14,4 +14,4 @@ pnpm dev
 bun dev
 ```
 
-`npx prisma studio` - Showing Error in Wind-10 OS
+`npx prisma studio` - Showing Error in Wind-10 OS (1:22)
